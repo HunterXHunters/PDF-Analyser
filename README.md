@@ -1,6 +1,6 @@
 # Malware Analysis on Malicious Adobe PDF
-This script helps you to look at PDF documents to determine if they contain malware, and if so, what that malware does. 
-<br>
+This script helps you to look at PDF documents to determine if they contain malware, and if so, what that malware does. <br><br>
+
 Uses different plugins from tools like:
 1. pdfid, 
 2. pdf-parser and 
