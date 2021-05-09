@@ -6,7 +6,7 @@ This Automatic script helps your L1 team to look at the characteristics of the P
 Uses different plugins from tools like:
 1. pdfid, 
 2. pdf-parser and 
-3. peepdf
+3. peepdf <br/>
 also process file to Yara for pattern analysis.
 
 
