@@ -83,7 +83,7 @@ echo ""
 
 ##pdf-parser to map document with Yara
 
-pdf-parser.py -y YaraRules/yara/rules/index.yar $1 > $pdfparser/Yara.txt
+pdf-parser.py -y YaraRules/yara/rules/index.yar $1 > $pdfparser/Yara.txt 
 
 yara -w -msg YaraRules/yara/rules/index.yar $1 > $pdfparser/PlainYara.txt
 
